@@ -6,8 +6,8 @@ Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern J
 
 ## About Me
 
-- Senior Back-End Developer at Enetpulse since 2020
-- Leading development for sports platforms including OddsPortal, BetExplorer, and Soccervista
+- Senior Back-End Developer
+- Leading development for sports platforms
 - Focused on clean code, technical debt management, testing, and full-lifecycle ownership
 - Comfortable across backend-heavy work, API design, internal tooling, and frontend delivery when needed
 
@@ -32,12 +32,12 @@ Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern J
 
 ## Experience Highlights
 
-- Built and maintained sports data platforms delivering real-time odds, predictions, results, and statistics
-- Architected and maintained an OddsPortal CMS using Laravel and Filament
+- Mintained sports data platforms delivering real-time odds, predictions, results, and statistics
+- Maintained CMS using Laravel and Filament
 - Improved application performance using Varnish, Memcache, and Redis
 - Worked with Docker and Kubernetes for containerized development and deployment
 - Implemented and maintained CI/CD pipelines in GitLab
-- Developed automated test coverage with PHPUnit to reduce regressions in high-traffic environments
+- Developed automated test coverage with PHPUnit/Pest to reduce regressions in high-traffic environments
 
 ## What I Work On
 
