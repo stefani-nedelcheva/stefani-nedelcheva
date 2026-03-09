@@ -32,17 +32,7 @@ PHP/Laravel developer with daily experience building sports data products, APIs,
 - CSS Flip Scoreboard: animated sports scoreboard built with vanilla JS and CSS
 - Vue Composables Showcase: reusable Composition API patterns with live examples
 
-## GitHub Stats
-
-![Stefani's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefani-nedelcheva&show_icons=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefani-nedelcheva&layout=compact&hide_border=true&theme=transparent)
-
 ## Connect
 
 - LinkedIn: [stefani-nedelcheva-597585156](https://www.linkedin.com/in/stefani-nedelcheva-597585156/)
 - GitHub: [stefani-nedelcheva](https://github.com/stefani-nedelcheva)
-
-## Notes
-
-This repository is meant to be the special GitHub profile repository. To activate it, create a repository named exactly `stefani-nedelcheva` under the `stefani-nedelcheva` GitHub account and place this `README.md` in the root.
