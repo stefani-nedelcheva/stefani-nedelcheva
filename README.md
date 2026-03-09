@@ -1,36 +1,59 @@
 # Stefani Nedelcheva
 
-PHP/Laravel developer with daily experience building sports data products, APIs, and frontend features with Vue, React, and Next.js.
+Senior Back-End Developer with 8+ years of experience building scalable, high-traffic web applications and sports data products.
+
+Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern JavaScript frameworks, caching layers, CI/CD, and containerized environments.
 
 ## About Me
 
-- Working professionally with Laravel, PHP, MySQL, JavaScript, Vue, React, and Next.js
-- Interested in practical UI work, data-heavy products, and sports-related tooling
-- Based in Sofia, Bulgaria
+- Senior Back-End Developer at Enetpulse since 2020
+- Leading development for sports platforms including OddsPortal, BetExplorer, and Soccervista
+- Focused on clean code, technical debt management, testing, and full-lifecycle ownership
+- Comfortable across backend-heavy work, API design, internal tooling, and frontend delivery when needed
 
-## Tech Stack
+## Core Stack
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![Vue](https://img.shields.io/badge/Vue-3-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Current Focus
+## Experience Highlights
 
-- Building small portfolio projects that reflect real production skills
-- Sharpening React, Vue 3 Composition API, and modern frontend workflows
-- Creating polished demos with fast setup and clear documentation
+- Built and maintained sports data platforms delivering real-time odds, predictions, results, and statistics
+- Architected and maintained an OddsPortal CMS using Laravel and Filament
+- Improved application performance using Varnish, Memcache, and Redis
+- Worked with Docker and Kubernetes for containerized development and deployment
+- Implemented and maintained CI/CD pipelines in GitLab
+- Developed automated test coverage with PHPUnit to reduce regressions in high-traffic environments
 
-## Featured Project Ideas
+## What I Work On
 
-- Bet Calculator: odds conversion, profit calculation, implied probability
-- Country Explorer: Vue 3 + public API + responsive filters
-- CSS Flip Scoreboard: animated sports scoreboard built with vanilla JS and CSS
-- Vue Composables Showcase: reusable Composition API patterns with live examples
+- Backend systems and business logic in PHP
+- Laravel applications, APIs, and internal tools
+- Frontend features with Vue, React, and Next.js
+- Performance optimization and caching strategy
+- Refactoring, code quality, and long-term maintainability
+
+## Featured Projects
+
+- [Odds Bet Calculator](https://github.com/stefani-nedelcheva/odds-bet-calculator) - React and Tailwind app for odds conversion, implied probability, and projected returns
+- [Flip Scoreboard Demo](https://github.com/stefani-nedelcheva/flip-scoreboard-demo) - Vanilla JavaScript and CSS 3D sports scoreboard with animated split-flap style digits
+- [Country Explorer Vue](https://github.com/stefani-nedelcheva/country-explorer-vue) - Vue 3 and REST Countries API demo with filtering, search, and country detail panels
+- [Typing Speed Test JS](https://github.com/stefani-nedelcheva/typing-speed-test-js) - Vanilla JavaScript typing test with live WPM, accuracy, and result summary
+- [Vue Composables Showcase](https://github.com/stefani-nedelcheva/vue-composables-showcase) - Vue 3 project demonstrating reusable composables such as `useDebounce`, `useFetch`, and `useLocalStorage`
 
 ## Connect
 
