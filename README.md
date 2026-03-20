@@ -2,14 +2,14 @@
 
 Senior Back-End Developer with 8+ years of experience building scalable, high-traffic web applications and sports data products.
 
-Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern JavaScript frameworks, caching layers, CI/CD, and containerized environments.
+Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern JavaScript frameworks, caching layers, CI/CD and containerized environments.
 
 ## About Me
 
 - Senior Back-End Developer
-- Leading development for sports platforms
-- Focused on clean code, technical debt management, testing, and full-lifecycle ownership
-- Comfortable across backend-heavy work, API design, internal tooling, and frontend delivery when needed
+- Development for sports platforms
+- Focused on clean code, technical debt management, testing and full-lifecycle ownership
+- Comfortable across backend-heavy work, API integrations, internal tooling and frontend delivery when needed
 
 ## Core Stack
 
@@ -32,9 +32,9 @@ Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern J
 
 ## Experience Highlights
 
-- Maintained sports data platforms delivering real-time odds, predictions, results, and statistics
+- Maintained sports data platforms delivering real-time odds, predictions, results and statistics
 - Maintained CMS using Laravel and Filament
-- Improved application performance using Varnish, Memcache, and Redis
+- Improved application performance using Varnish, Memcache and Redis
 - Worked with Docker and Kubernetes for containerized development and deployment
 - Implemented and maintained CI/CD pipelines in GitLab
 - Developed automated test coverage with PHPUnit/Pest to reduce regressions in high-traffic environments
@@ -42,10 +42,10 @@ Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern J
 ## What I Work On
 
 - Backend systems and business logic in PHP
-- Laravel applications, APIs, and internal tools
-- Frontend features with Vue, React, and Next.js
+- Laravel applications, APIs and internal tools
+- Frontend features with Vue, React and Next.js
 - Performance optimization and caching strategy
-- Refactoring, code quality, and long-term maintainability
+- Refactoring, code quality and long-term maintainability
 
 ## Featured Projects
 
