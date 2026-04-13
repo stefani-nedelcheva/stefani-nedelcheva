@@ -49,11 +49,12 @@ Based in Sofia, Bulgaria, with strong experience across PHP ecosystems, modern J
 
 ## Featured Projects
 
-- [Odds Bet Calculator](https://github.com/stefani-nedelcheva/odds-bet-calculator) - React and Tailwind app for odds conversion, implied probability, and projected returns
+- [League Odds Tracker](https://github.com/stefani-nedelcheva/league-odds-tracker) - Minimal Next.js App Router + Tailwind CSS UI that compares head-to-head odds from multiple bookmakers for upcoming matches using [The Odds API](https://the-odds-api.com/)
+- [Odds Bet Calculator](https://github.com/stefani-nedelcheva/odds-bet-calculator) - React and Tailwind app for odds conversion, implied probability and projected returns
 - [Flip Scoreboard Demo](https://github.com/stefani-nedelcheva/flip-scoreboard-demo) - Vanilla JavaScript and CSS 3D sports scoreboard with animated split-flap style digits
-- [Country Explorer Vue](https://github.com/stefani-nedelcheva/country-explorer-vue) - Vue 3 and REST Countries API demo with filtering, search, and country detail panels
-- [Typing Speed Test JS](https://github.com/stefani-nedelcheva/typing-speed-test-js) - Vanilla JavaScript typing test with live WPM, accuracy, and result summary
-- [Vue Composables Showcase](https://github.com/stefani-nedelcheva/vue-composables-showcase) - Vue 3 project demonstrating reusable composables such as `useDebounce`, `useFetch`, and `useLocalStorage`
+- [Country Explorer Vue](https://github.com/stefani-nedelcheva/country-explorer-vue) - Vue 3 and REST Countries API demo with filtering, search and country detail panels
+- [Typing Speed Test JS](https://github.com/stefani-nedelcheva/typing-speed-test-js) - Vanilla JavaScript typing test with live WPM, accuracy and result summary
+- [Vue Composables Showcase](https://github.com/stefani-nedelcheva/vue-composables-showcase) - Vue 3 project demonstrating reusable composables such as `useDebounce`, `useFetch` and `useLocalStorage`
 
 ## Connect
 
